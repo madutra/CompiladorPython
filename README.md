@@ -12,12 +12,16 @@ Linguagem de saída do compilador: C
 
 Fases do compilador: 
 * Analise léxica.
+
 ** Criação de tabela de simbolos e tabela de transição
 * Analise Sintática
+
 ** Criação de tabelas Action and GoTo
+
 * Analise semântica
 
 
 Legenda: 
 * titulo
+
 ** criação de tabelas e arquivos especificos. 
