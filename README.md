@@ -7,7 +7,7 @@ Disciplina de compiladores
 Universidade federal de Goiás
 
 Compilador preparado para linguagem MGOL.
-Linguagem utilizada para implementação do compilador: Python 3.0
+Linguagem utilizada para implementação do compilador: Python 3.0 em Jupyter Notebook
 Linguagem de saída do compilador: C
 
 Fases do compilador: 
